@@ -57,14 +57,14 @@ Me chamo Rafael Pascotte Mercadante, tenho 18 anos e sou natural de São Paulo. 
     title="sql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="//cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img 
     align="left" 
     alt="Sql" 
     title="sql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="//cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
 
           
           
