@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rafael Pascotte Mercadante
 
-**`Desenvolvedor Back-end e Analita de dados`**
+**`Desenvolvedor Back-end `**
 
 Me chamo Rafael Pascotte Mercadante, tenho 18 anos e sou natural de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonado por tecnologia e inovação, e busco constantemente me destacar através da criatividade, dedicação e vontade de aprender.
 
